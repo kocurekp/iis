@@ -1,0 +1,705 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"ID",
+				"ID_comments"
+			],
+			[
+				"ID_",
+				"ID_ticket"
+			],
+			[
+				"de",
+				"DEFAULT"
+			],
+			[
+				"D",
+				"DEFAULT"
+			],
+			[
+				"Ta",
+				"TABLE"
+			],
+			[
+				"db",
+				"db_pass"
+			],
+			[
+				"f",
+				"file"
+			],
+			[
+				"le",
+				"lex_analysis_ERR"
+			],
+			[
+				"file",
+				"files"
+			],
+			[
+				"sc",
+				"screenHeight"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"o",
+				"ol\tTag"
+			],
+			[
+				"cena",
+				"cena_sourozenci"
+			],
+			[
+				"cena_",
+				"cena_na_den_zaklad"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"do",
+				"domain"
+			],
+			[
+				"fre",
+				"freeAll"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"ar",
+				"argv"
+			],
+			[
+				"arg",
+				"argv"
+			],
+			[
+				"hr",
+				"hr\tTag"
+			],
+			[
+				"ija",
+				"ija2018"
+			],
+			[
+				"a",
+				"arguments"
+			],
+			[
+				"x",
+				"xml_block"
+			],
+			[
+				"false",
+				"False"
+			],
+			[
+				"at",
+				"attrib"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"xml",
+				"xml_block"
+			],
+			[
+				"pu",
+				"ipp_pushframe"
+			],
+			[
+				"ipp_ju",
+				"ipp_jumpifneq"
+			],
+			[
+				"ipp_jum",
+				"ipp_jumpifeq"
+			],
+			[
+				"ipp_str",
+				"ipp_strlen"
+			],
+			[
+				"ipp_re",
+				"ipp_read"
+			],
+			[
+				"ipp_st",
+				"ipp_stri2int"
+			],
+			[
+				"ipp_lt",
+				"ipp_lt_gt_eq"
+			],
+			[
+				"ipp_m",
+				"ipp_mul"
+			],
+			[
+				"ipp_po",
+				"ipp_pops"
+			],
+			[
+				"ipp_c",
+				"ipp_createframe"
+			],
+			[
+				"e",
+				"else"
+			],
+			[
+				"JUMP",
+				"JUMPIFNEQ"
+			],
+			[
+				"JUP",
+				"JUMPIFEQ"
+			],
+			[
+				"POP",
+				"POPFRAME"
+			],
+			[
+				"el",
+				"element"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"r",
+				"root"
+			],
+			[
+				"testDisks",
+				"testDisks3"
+			],
+			[
+				"Bo",
+				"Board"
+			],
+			[
+				"is",
+				"isEmpty"
+			],
+			[
+				"F",
+				"Field"
+			],
+			[
+				"Board",
+				"BoardField"
+			],
+			[
+				"tmp",
+				"tmpDirections"
+			],
+			[
+				"la",
+				"language"
+			],
+			[
+				"serve",
+				"serverResponse"
+			],
+			[
+				"Str",
+				"StringReader"
+			],
+			[
+				"print",
+				"println"
+			],
+			[
+				"prin",
+				"println"
+			],
+			[
+				"pr",
+				"printableResult1"
+			],
+			[
+				"line",
+				"line1"
+			],
+			[
+				"strt",
+				"strtoupper"
+			],
+			[
+				"imp",
+				"import"
+			],
+			[
+				"argda",
+				"arg1data"
+			],
+			[
+				"convert",
+				"convertStrNumberToChar"
+			],
+			[
+				"str",
+				"strNumber"
+			],
+			[
+				"comm",
+				"commentCheck"
+			],
+			[
+				"preg",
+				"preg_replace"
+			],
+			[
+				"strto",
+				"strtolower"
+			],
+			[
+				"is_nu",
+				"is_numeric"
+			],
+			[
+				"number",
+				"numberOfArgumentsOnLineCheck"
+			],
+			[
+				"no",
+				"noOfArgumentsItTakes"
+			],
+			[
+				"else",
+				"elseif\telseif …"
+			],
+			[
+				"true",
+				"true"
+			],
+			[
+				"argu",
+				"argumentsCheck"
+			],
+			[
+				"erro",
+				"errorHandel"
+			],
+			[
+				"type",
+				"typeAndValue"
+			],
+			[
+				"ty",
+				"typeAndValue"
+			],
+			[
+				"lin",
+				"line_arr"
+			],
+			[
+				"argume",
+				"arguments"
+			],
+			[
+				"label",
+				"label"
+			],
+			[
+				"arg3",
+				"arg3data"
+			],
+			[
+				"arg2",
+				"arg2type"
+			],
+			[
+				"arg1",
+				"arg1type"
+			],
+			[
+				"var",
+				"var"
+			],
+			[
+				"sy",
+				"symb2"
+			],
+			[
+				"J",
+				"JFLAGS"
+			],
+			[
+				"labe",
+				"label"
+			],
+			[
+				"glo",
+				"global"
+			],
+			[
+				"dom",
+				"domDocument"
+			],
+			[
+				"varS",
+				"varSymbSymbMethod"
+			],
+			[
+				"li",
+				"line_arr"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"k",
+				"keyWords_count"
+			],
+			[
+				"key",
+				"keyWords"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"ke",
+				"keyWords"
+			],
+			[
+				"lo",
+				"location"
+			],
+			[
+				"htt",
+				"HttpURLConnection"
+			],
+			[
+				"api",
+				"apiKey"
+			],
+			[
+				"m",
+				"myWeatherData"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"LOWE",
+				"Convert Case: Lower Case"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 131.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/ArthurMAC/Disk Google/FIT/5sem/ISA/proj/d6r.c",
+		"/Users/ArthurMAC/Disk Google/FIT/3sem/IFJ/proj/xbalaz09/symtable.h",
+		"/Users/ArthurMAC/Disk Google/FIT/5sem/IIS/proj/www/index.php",
+		"/Users/ArthurMAC/Disk Google/FIT/5sem/IIS/proj/www/services.php",
+		"/Users/ArthurMAC/Disk Google/FIT/5sem/IIS/proj/www/register.php",
+		"/Users/ArthurMAC/Downloads/User.sql",
+		"/Users/ArthurMAC/Disk Google/FIT/5sem/IIS/proj/site/index.php",
+		"/Users/ArthurMAC/Disk Google/FIT/5sem/ISA/examples/examples/raw/sniff.c",
+		"/Users/ArthurMAC/Downloads/dhcp-master/relay/dhcrelay.c",
+		"/Users/ArthurMAC/Downloads/dhcprelya-master/dhcprelya.c",
+		"/Users/ArthurMAC/Downloads/dhcprelya-master/dhcprelya.h",
+		"/Users/ArthurMAC/Disk Google/FIT/3sem/IFJ/proj/xbalaz09/symtable.c",
+		"/Users/ArthurMAC/Disk Google/FIT/5sem/IFJ/proj/IFJ_2019/scanner.c",
+		"/Users/ArthurMAC/Disk Google/FIT/5sem/IFJ/proj/IFJ_2019/test_inputs/tests.py",
+		"/Users/ArthurMAC/Disk Google/FIT/5sem/IFJ/proj/IFJ_2019/tests.py",
+		"/Users/ArthurMAC/Desktop/test.py",
+		"/Users/ArthurMAC/Downloads/macOS.gitignore.txt",
+		"/Users/ArthurMAC/Google Drive/FIT/5sem/IFJ/proj/IFJ_2019/symtable.c",
+		"/Users/ArthurMAC/Google Drive/FIT/3sem/IFJ/proj/xbalaz09/symtable.c",
+		"/Users/ArthurMAC/Disk Google/FIT/3sem/IFJ/proj/xbalaz09/syn_analysis.c",
+		"/Users/ArthurMAC/Disk Google/FIT/3sem/IFJ/proj/xbalaz09/code_generator.c",
+		"/Users/ArthurMAC/Disk Google/FIT/3sem/IFJ/proj/xbalaz09/compiler.c",
+		"/Users/ArthurMAC/Google Drive/FIT/3sem/IFJ/proj/xbalaz09/syn_analysis.c",
+		"/Users/ArthurMAC/Google Drive/FIT/3sem/IFJ/proj/xbalaz09/token.c",
+		"/Users/ArthurMAC/Google Drive/FIT/3sem/IFJ/proj/xbalaz09/stack.c",
+		"/Users/ArthurMAC/Google Drive/FIT/3sem/IFJ/proj/xbalaz09/function_table.c",
+		"/Users/ArthurMAC/Google Drive/FIT/3sem/IFJ/proj/xbalaz09/expressions.c",
+		"/Users/ArthurMAC/Google Drive/FIT/3sem/IFJ/proj/xbalaz09/dynamic_string.c",
+		"/Users/ArthurMAC/Google Drive/FIT/3sem/IFJ/proj/xbalaz09/code_generator.c",
+		"/Users/ArthurMAC/Google Drive/FIT/3sem/IFJ/proj/xbalaz09/scanner.c",
+		"/Users/ArthurMAC/Google Drive/FIT/3sem/IFJ/proj/xbalaz09/compiler.c",
+		"/Users/ArthurMAC/Google Drive/FIT/3sem/IFJ/proj/xbalaz09/dynamic_string.h",
+		"/Users/ArthurMAC/Google Drive/FIT/3sem/IFJ/proj/xbalaz09/expressions.h",
+		"/Users/ArthurMAC/Google Drive/FIT/3sem/IFJ/proj/xbalaz09/syn_analysis.h",
+		"/Users/ArthurMAC/Google Drive/FIT/3sem/IFJ/proj/xbalaz09/symtable.h",
+		"/Users/ArthurMAC/Google Drive/FIT/3sem/IFJ/proj/xbalaz09/stack.h",
+		"/Users/ArthurMAC/Google Drive/FIT/3sem/IFJ/proj/xbalaz09/scanner.h",
+		"/Users/ArthurMAC/Google Drive/FIT/3sem/IFJ/proj/xbalaz09/scanner_states.h",
+		"/Users/ArthurMAC/Google Drive/FIT/3sem/IFJ/proj/xbalaz09/return_codes.h",
+		"/Users/ArthurMAC/Google Drive/FIT/3sem/IFJ/proj/xbalaz09/function_table.h",
+		"/Users/ArthurMAC/Google Drive/FIT/3sem/IFJ/proj/xbalaz09/token.h",
+		"/Users/ArthurMAC/Downloads/jednoduchy_interpret/zdrojove_soubory/main.c",
+		"/Users/ArthurMAC/Downloads/jednoduchy_interpret/zdrojove_soubory/stable.c",
+		"/Users/ArthurMAC/Downloads/jednoduchy_interpret/zdrojove_soubory/str.c",
+		"/Users/ArthurMAC/Downloads/jednoduchy_interpret/zdrojove_soubory/ilist.c",
+		"/Users/ArthurMAC/Documents/Xcode/proVolby/proVolby/Views/Okresy/fileGenerator.py",
+		"/private/var/folders/5k/s90px2x17_3_x6jczr84sdz80000gn/T/fz3temp-2/menu.php",
+		"/Users/ArthurMAC/Documents/Xcode/proVolby/proVolby/Views/CrMap.swift",
+		"/Users/ArthurMAC/Google Drive/FIT/4sem/IPP/proj/interpret.py",
+		"/Users/ArthurMAC/Downloads/laravel-master/config/app.php",
+		"/Users/ArthurMAC/Desktop/proj.swift",
+		"/Users/ArthurMAC/Desktop/pozn2",
+		"/Volumes/www.skauting.cz/www/incl/pravy_ram.php",
+		"/Volumes/www.skauting.cz/www/incl/menu.php",
+		"/Users/ArthurMAC/Downloads/icons8-settings.svg",
+		"/private/var/folders/5k/s90px2x17_3_x6jczr84sdz80000gn/T/fz3temp-2/pravy_ram.php",
+		"/private/var/folders/5k/s90px2x17_3_x6jczr84sdz80000gn/T/fz3temp-2/index.php",
+		"/Users/ArthurMAC/Desktop/CZ0 Česká republika",
+		"/private/var/folders/5k/s90px2x17_3_x6jczr84sdz80000gn/T/fz3temp-2/manual.php",
+		"/private/var/folders/5k/s90px2x17_3_x6jczr84sdz80000gn/T/fz3temp-2/tabor.php",
+		"/Users/ArthurMAC/Google Drive/FIT/4sem/IJA/proj/src/ChessGame.java",
+		"/Users/ArthurMAC/Google Drive/FIT/4sem/IJA/proj/src/figures/AbstractFigure.java",
+		"/Users/ArthurMAC/Google Drive/FIT/4sem/IJA/proj/src/figures/Pesak.java",
+		"/Users/ArthurMAC/Google Drive/FIT/4sem/IJA/proj/src/figures/Figure.java",
+		"/Users/ArthurMAC/Google Drive/FIT/4sem/IJA/proj/src/figures/Vez.java",
+		"/Users/ArthurMAC/Google Drive/FIT/4sem/IJA/proj/src/board/Board.java",
+		"/Users/ArthurMAC/Google Drive/FIT/4sem/IJA/proj/src/board/Field.java",
+		"/Users/ArthurMAC/Google Drive/FIT/4sem/IJA/proj/src/board/BoardField.java",
+		"/Users/ArthurMAC/Google Drive/FIT/4sem/IJA/proj/src/GameFactory.java",
+		"/Users/ArthurMAC/Google Drive/FIT/4sem/IJA/proj/src/Game.java",
+		"/Users/ArthurMAC/Google Drive/FIT/4sem/IJA/ukoly/Ija2018-ukol1-zadani/doc/ija/ija2018/homework1/board/Disk.java",
+		"/private/var/folders/5k/s90px2x17_3_x6jczr84sdz80000gn/T/fz3temp-2/funkce_tabor.php",
+		"/private/var/folders/5k/s90px2x17_3_x6jczr84sdz80000gn/T/fz3temp-2/pro_cleny.php",
+		"/private/var/folders/5k/s90px2x17_3_x6jczr84sdz80000gn/T/fz3temp-2/nastenka.php",
+		"/private/var/folders/5k/s90px2x17_3_x6jczr84sdz80000gn/T/fz3temp-2/historie.php",
+		"/Users/ArthurMAC/Google Drive/FIT/others/but-fit-projects-master/ids/src/script.sql",
+		"/Users/ArthurMAC/Desktop/test/proj2.cpp",
+		"/Users/ArthurMAC/Google Drive/FIT/4sem/IPK/proj2/proj2.cpp",
+		"/Users/ArthurMAC/Google Drive/FIT/4sem/IPK/proj2/main.cpp",
+		"/Users/ArthurMAC/Google Drive/FIT/4sem/IPK/proj2/Makefile",
+		"/private/var/folders/5k/s90px2x17_3_x6jczr84sdz80000gn/T/fz3temp-2/fotky.php",
+		"/private/var/folders/5k/s90px2x17_3_x6jczr84sdz80000gn/T/fz3temp-2/check.php",
+		"/private/var/folders/5k/s90px2x17_3_x6jczr84sdz80000gn/T/fz3temp-2/nanogp.php",
+		"/private/var/folders/5k/s90px2x17_3_x6jczr84sdz80000gn/T/fz3temp-2/config.php",
+		"/private/var/folders/5k/s90px2x17_3_x6jczr84sdz80000gn/T/fz3temp-2/tools.php",
+		"/Users/ArthurMAC/Desktop/IJA-merlin/ija/ija2018/homework2/common/AbstractFigure.java",
+		"/Users/ArthurMAC/Desktop/IJA-merlin/ija/ija2018/homework2/common/BoardField.java",
+		"/Users/ArthurMAC/Desktop/IJA-merlin/ija/ija2018/homework2/common/Rook.java",
+		"/Users/ArthurMAC/Downloads/IJA-merlin 2/ija/ija2018/homework2/Homework2Test.java",
+		"/Users/ArthurMAC/Google Drive/FIT/4sem/IJA/ukoly/Ija2018-ukol2-zadani/ija/ija2018/homework2/game/ChessGame.java",
+		"/Users/ArthurMAC/Google Drive/FIT/4sem/IJA/ukoly/Ija2018-ukol2-zadani/ija/ija2018/homework2/common/Pesak.java",
+		"/Users/ArthurMAC/Google Drive/FIT/4sem/IJA/ukoly/Ija2018-ukol2-zadani/ija/ija2018/homework2/game/Board.java",
+		"/Users/ArthurMAC/Google Drive/FIT/4sem/IJA/ukoly/Ija2018-ukol2-zadani/ija/ija2018/homework2/common/Vez.java",
+		"/Users/ArthurMAC/Google Drive/FIT/4sem/IJA/ukoly/Ija2018-ukol2-zadani/ija/ija2018/homework2/common/Game.java",
+		"/Users/ArthurMAC/Downloads/IJA-merlin 2/ija/ija2018/homework2/common/Figure.java",
+		"/Users/ArthurMAC/Downloads/IJA-merlin 2/ija/ija2018/homework2/common/Field.java",
+		"/Users/ArthurMAC/Downloads/IJA-merlin 2/ija/ija2018/homework2/common/Dame.java",
+		"/Users/ArthurMAC/Downloads/IJA-merlin 2/ija/ija2018/homework2/common/BoardField.java",
+		"/Users/ArthurMAC/Google Drive/FIT/4sem/IJA/ukoly/Ija2018-ukol2-zadani/ija/ija2018/homework2/GameFactory.java",
+		"/Users/ArthurMAC/Downloads/IJA-merlin 2/ija/ija2018/homework2/GameFactory.java",
+		"/Users/ArthurMAC/Google Drive/FIT/4sem/IJA/ukoly/Ija2018-ukol2-zadani/ija/ija2018/homework2/common/Dama.java",
+		"/Users/ArthurMAC/Downloads/IJA-merlin 2/ija/ija2018/homework2/common/Pawn.java",
+		"/Users/ArthurMAC/Downloads/IJA-merlin 2/ija/ija2018/homework2/common/Rook.java",
+		"/Users/ArthurMAC/Downloads/IJA-merlin 2/lib/hamcrest-core-1.3.jar",
+		"/Users/ArthurMAC/Downloads/IJA-merlin/ija/ija2018/homework2/game/CheckersGame.java",
+		"/Users/ArthurMAC/Downloads/IJA-merlin/ija/ija2018/homework2/common/Figure.java",
+		"/Users/ArthurMAC/Google Drive/FIT/4sem/IJA/ukoly/Ija2018-ukol1-zadani/doc/ija/ija2018/homework1/board/Board.java",
+		"/Users/ArthurMAC/Google Drive/FIT/4sem/IJA/ukoly/Ija2018-ukol1-zadani/doc/ija/ija2018/homework1/board/BoardField.java",
+		"/Users/ArthurMAC/Google Drive/FIT/4sem/IJA/ukoly/Ija2018-ukol1-zadani/doc/ija/ija2018/homework1/board/Field.java",
+		"/Users/ArthurMAC/Desktop/test.php",
+		"/Users/ArthurMAC/Google Drive/FIT/4sem/IJA/ukoly/Ija2018-ukol2-zadani/doc/ija/ija2018/homework2/game/Field.java",
+		"/Users/ArthurMAC/Google Drive/FIT/4sem/IJA/ukoly/Ija2018-ukol2-zadani/doc/ija/ija2018/homework2/game/Disk.java",
+		"/Users/ArthurMAC/Google Drive/FIT/4sem/IJA/ukoly/Ija2018-ukol2-zadani/doc/ija/ija2018/homework2/game/BoardField.java",
+		"/Users/ArthurMAC/Google Drive/FIT/4sem/IJA/ukoly/Ija2018-ukol2-zadani/doc/ija/ija2018/homework2/game/Board.java",
+		"/Users/ArthurMAC/Google Drive/FIT/4sem/IPP/proj/parse.php",
+		"/Users/ArthurMAC/Google Drive/FIT/4sem/IPP/proj/test.php",
+		"/Users/ArthurMAC/Google Drive/FIT/4sem/IJA/ukoly/Ija2018-ukol2-zadani/doc/ija/ija2018/homework2/common/Field.java",
+		"/Users/ArthurMAC/Google Drive/FIT/4sem/IJA/ukoly/Ija2018-ukol2-zadani/doc/ija/ija2018/homework2/common/Game.java",
+		"/Users/ArthurMAC/Google Drive/FIT/4sem/IJA/ukoly/Ija2018-ukol2-zadani/doc/ija/ija2018/homework2/GameFactory.java",
+		"/Users/ArthurMAC/Downloads/pulsemkaVyresena.sql",
+		"/Users/ArthurMAC/Google Drive/FIT/4sem/IPP/proj/discord_test/parse-only/Basic_tests/EveryInstruction.out",
+		"/Users/ArthurMAC/Desktop/xml/xml_test.py",
+		"/Users/ArthurMAC/Desktop/class Instruction.py",
+		"/Users/ArthurMAC/Google Drive/FIT/4sem/IJA/ukoly/Ija2018-ukol1-zadani/doc/ija/ija2018/homework1/Homework1.java",
+		"/Users/ArthurMAC/Google Drive/FIT/4sem/IPK/proj1/Main.java",
+		"/private/var/folders/5k/s90px2x17_3_x6jczr84sdz80000gn/T/fz3temp-2/BoardField.java",
+		"/private/var/folders/5k/s90px2x17_3_x6jczr84sdz80000gn/T/fz3temp-2/Disk.java",
+		"/private/var/folders/5k/s90px2x17_3_x6jczr84sdz80000gn/T/fz3temp-2/Homework1.java"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
